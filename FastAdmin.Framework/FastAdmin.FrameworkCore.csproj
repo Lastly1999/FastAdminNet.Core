@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FastAdmin.DAL\FastAdmin.DAL.csproj" />
+    <ProjectReference Include="..\FastAdmin.DLL\FastAdmin.DLL.csproj" />
+    <ProjectReference Include="..\FastAdmin.Entitys\FastAdmin.Entitys.csproj" />
+    <ProjectReference Include="..\FastAdmin.IDAL\FastAdmin.IDAL.csproj" />
+  </ItemGroup>
+
+</Project>

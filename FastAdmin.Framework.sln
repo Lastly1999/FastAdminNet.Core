@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastAdmin.FrameworkCore", "FastAdmin.Framework\FastAdmin.FrameworkCore.csproj", "{498B6802-8525-4B77-A0FC-BC620DEB5C12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastAdmin.IDAL", "FastAdmin.IDAL\FastAdmin.IDAL.csproj", "{FDBF37C4-8821-40A6-9CB3-0FCC04030781}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastAdmin.DAL", "FastAdmin.DAL\FastAdmin.DAL.csproj", "{4D97E54D-459C-4488-A73C-BD5BC720A584}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastAdmin.DLL", "FastAdmin.DLL\FastAdmin.DLL.csproj", "{EC677B01-6560-46EE-8EB6-AEEE52787AE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastAdmin.IDLL", "FastAdmin.IDLL\FastAdmin.IDLL.csproj", "{66E37CF4-8E32-42B0-99D5-EEECAA29352B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastAdmin.Entitys", "FastAdmin.Entitys\FastAdmin.Entitys.csproj", "{5C56A0D5-7157-47FD-A0D9-C19130317F94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{498B6802-8525-4B77-A0FC-BC620DEB5C12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{498B6802-8525-4B77-A0FC-BC620DEB5C12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{498B6802-8525-4B77-A0FC-BC620DEB5C12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{498B6802-8525-4B77-A0FC-BC620DEB5C12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDBF37C4-8821-40A6-9CB3-0FCC04030781}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDBF37C4-8821-40A6-9CB3-0FCC04030781}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDBF37C4-8821-40A6-9CB3-0FCC04030781}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDBF37C4-8821-40A6-9CB3-0FCC04030781}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D97E54D-459C-4488-A73C-BD5BC720A584}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D97E54D-459C-4488-A73C-BD5BC720A584}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D97E54D-459C-4488-A73C-BD5BC720A584}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D97E54D-459C-4488-A73C-BD5BC720A584}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC677B01-6560-46EE-8EB6-AEEE52787AE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC677B01-6560-46EE-8EB6-AEEE52787AE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC677B01-6560-46EE-8EB6-AEEE52787AE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC677B01-6560-46EE-8EB6-AEEE52787AE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66E37CF4-8E32-42B0-99D5-EEECAA29352B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66E37CF4-8E32-42B0-99D5-EEECAA29352B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66E37CF4-8E32-42B0-99D5-EEECAA29352B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66E37CF4-8E32-42B0-99D5-EEECAA29352B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C56A0D5-7157-47FD-A0D9-C19130317F94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C56A0D5-7157-47FD-A0D9-C19130317F94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C56A0D5-7157-47FD-A0D9-C19130317F94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C56A0D5-7157-47FD-A0D9-C19130317F94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {624C90BB-C2EE-4EE2-8AB4-DCEC9D9B2D53}
+	EndGlobalSection
+EndGlobal
